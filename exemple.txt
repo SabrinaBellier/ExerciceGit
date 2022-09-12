@@ -6,4 +6,4 @@ Ceci est un troisième message.
 
 Ceci est le quatrieme message.
 
-Ceci est un 5e message. Il n'existera d'abord que dans la branche feature/new-text.
+Ceci est un 5e message. Il n'existera .
