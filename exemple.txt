@@ -10,3 +10,9 @@ Ceci est un 5e message. Il n'existera .
 Ceci est un 5e message. Il n'existera d'abord que dans la branche feature/new-text.
 
 6e message de la main.
+
+1) Faire des modifications dans "exemle.txt" sur "main" ("master").
+2) Envoyer ces changements en ligne (3 commandes).
+3) Aller sur votre 2e branche puis effectuer des modifications sur "exemle.txt".
+4) Récupérer et fusionner la branche "main" dans votre branche actuelle.
+5) Solutionner les éventuelles conflits.
