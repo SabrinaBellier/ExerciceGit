@@ -10,3 +10,5 @@ Ceci est un 5e message. Il n'existera .
 Ceci est un 5e message. Il n'existera d'abord que dans la branche feature/new-text.
 
 6e message de la main.
+
+Effectuer des modifs sur exemple.txt de la 2e branche.
