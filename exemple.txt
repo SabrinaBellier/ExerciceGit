@@ -13,7 +13,7 @@ Ceci est un 5e message. Il n'existera d'abord que dans la branche feature/new-te
 
 Effectuer des modifs sur exemple.txt de la 2e branche.
 
-1) Faire des modifications dans "exemle.txt" sur "main" ("master").
+1) Faire des modifications dans "exemple.txt" sur "main" ("master").
 2) Envoyer ces changements en ligne (3 commandes).
 3) Aller sur votre 2e branche puis effectuer des modifications sur "exemle.txt".
 4) Récupérer et fusionner la branche "main" dans votre branche actuelle.
