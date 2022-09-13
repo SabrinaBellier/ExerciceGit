@@ -2,3 +2,7 @@ Titre de la chanson
 
 Parole 1
 Parole 2
+Parole 3
+Parole 4
+Parole 5
+Parole 6
