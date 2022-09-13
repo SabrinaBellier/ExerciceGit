@@ -12,6 +12,7 @@ Ceci est un 5e message. Il n'existera d'abord que dans la branche feature/new-te
 6e message de la main.
 
 Effectuer des modifs sur exemple.txt de la 2e branche.
+2e modifications.
 
 1) Faire des modifications dans "exemple.txt" sur "main" ("master").
 2) Envoyer ces changements en ligne (3 commandes).
